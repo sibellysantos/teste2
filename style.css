@@ -1,2 +1,30 @@
-body   { 
-    background-color: pink#1d4
+body { 
+    background-color: rgb(230, 27, 179);
+     color: rgba(255, 255, 255, 0.027); 
+     font-family: "bai jamjuree",sans-serif; 
+     display:flex 
+     justify-content:center; 
+     aling-items::center;
+      height: 700px; 
+      margin:0; 
+    } 
+    
+    button { 
+  background-color: blue;
+   color:white 
+   frot-famyli: "bai janjurre", sans-serif;
+
+}
+.passo {
+    display: nome;
+}
+.passo.ativo{
+    display:block;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 90%;
+}
