@@ -18,9 +18,6 @@ if (proxmoElemento){
 
 })
 } 
-
-
-
 )
 // Reinicia o jogo ao clicar no botão de reinício
 if (reiniciarBtn) {
